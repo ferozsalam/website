@@ -1,0 +1,72 @@
+@font-face {
+	font-family: Ubuntu;
+	src: url('fonts/Ubuntu-R.ttf');
+}
+
+body {
+	background-color: #FFFEFA;
+	font-family: Ubuntu, "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
+	font-size:115%;
+	width: 70%;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+a {
+	text-decoration: none;
+}
+
+p {
+	width: 100%;
+}
+
+a:link {
+	color: #FF9457;
+}
+
+a:visited {
+	color: #FF7F50;
+}
+
+a:hover {
+	color: #5F5A59;
+}
+
+.heading {
+	font-size:60px;
+	text-align:left;
+	float: left;
+	padding-bottom: 5px;
+}
+
+.heading a {
+	color: #000;
+}
+
+.menu {
+	float: right;
+	font-size: 25px;
+	padding-top: 30px;
+}
+
+/* Glyph, by Harry Roberts */
+		
+hr.style-eight {
+    padding: 0;
+    border: none;
+    border-top: medium double #333;
+    color: #333;
+    text-align: center;
+}
+
+.nav {
+	font-family: Georgia, serif;
+}
+
+.nav hr {
+	clear:both;
+}
+
+.content{
+	clear:both;
+}
