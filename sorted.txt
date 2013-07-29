@@ -1,0 +1,360 @@
+Average ratings North Devon:	4.778
+Average ratings Eden:	4.758
+Average ratings South Gloucestershire:	4.751
+Average ratings Tunbridge Wells:	4.732
+Average ratings Mid Devon:	4.667
+Average ratings Middlesbrough:	4.645
+Average ratings Warrington:	4.644
+Average ratings Redbridge:	4.634
+Average ratings Sedgemoor:	4.616
+Average ratings Lancaster City:	4.616
+Average ratings Darlington:	4.613
+Average ratings West Oxfordshire:	4.607
+Average ratings Maidstone:	4.590
+Average ratings Richmondshire:	4.579
+Average ratings Rochford:	4.569
+Average ratings Rossendale:	4.565
+Average ratings Teignbridge:	4.556
+Average ratings Maldon:	4.553
+Average ratings Ballymena:	4.553
+Average ratings South Norfolk:	4.549
+Average ratings Craven:	4.542
+Average ratings Cherwell:	4.542
+Average ratings Reigate and Banstead:	4.541
+Average ratings Harrogate:	4.539
+Average ratings Woking:	4.538
+Average ratings South Lakeland:	4.535
+Average ratings Ribble Valley:	4.533
+Average ratings Welwyn Hatfield:	4.528
+Average ratings North Norfolk:	4.527
+Average ratings Daventry:	4.527
+Average ratings Mendip:	4.526
+Average ratings Brentwood:	4.524
+Average ratings Bolsover:	4.524
+Average ratings Bassetlaw:	4.523
+Average ratings Barrow-in-Furness:	4.521
+Average ratings Lincoln City:	4.510
+Average ratings Isle of Wight:	4.505
+Average ratings West Somerset:	4.489
+Average ratings Nottingham City:	4.489
+Average ratings Limavady:	4.489
+Average ratings Cambridge City:	4.485
+Average ratings Torridge:	4.465
+Average ratings Waverley:	4.463
+Average ratings Lisburn:	4.452
+Average ratings Exeter City:	4.447
+Average ratings St Edmundsbury:	4.446
+Average ratings Herefordshire:	4.446
+Average ratings East Staffordshire:	4.446
+Average ratings Bath and North East Somerset:	4.445
+Average ratings Worcester City:	4.444
+Average ratings Newcastle Upon Tyne:	4.444
+Average ratings Gloucester City:	4.441
+Average ratings East Northamptonshire:	4.441
+Average ratings Aylesbury Vale:	4.438
+Average ratings Suffolk Coastal:	4.437
+Average ratings Dungannon:	4.433
+Average ratings Antrim:	4.432
+Average ratings South Derbyshire:	4.427
+Average ratings Stratford-on-Avon:	4.426
+Average ratings Rushcliffe:	4.423
+Average ratings High Peak:	4.421
+Average ratings Breckland:	4.421
+Average ratings Scarborough:	4.417
+Average ratings Bristol:	4.416
+Average ratings South Kesteven:	4.414
+Average ratings Broxbourne:	4.412
+Average ratings South Somerset:	4.411
+Average ratings Gravesham:	4.410
+Average ratings Taunton Deane:	4.409
+Average ratings Hartlepool:	4.405
+Average ratings West Devon:	4.403
+Average ratings Babergh:	4.403
+Average ratings Lewes:	4.393
+Average ratings Ashford:	4.393
+Average ratings Fenland:	4.392
+Average ratings Bromsgrove:	4.391
+Average ratings Harborough:	4.387
+Average ratings York:	4.375
+Average ratings West Lindsey:	4.372
+Average ratings Chichester:	4.371
+Average ratings Amber Valley:	4.366
+Average ratings Pendle:	4.365
+Average ratings Newry and Mourne:	4.365
+Average ratings Castle Point:	4.364
+Average ratings Stockton On Tees:	4.363
+Average ratings Redcar and Cleveland:	4.363
+Average ratings Castlereagh:	4.363
+Average ratings Cannock Chase:	4.361
+Average ratings Hambleton:	4.357
+Average ratings North East Lincolnshire:	4.355
+Average ratings Ashfield:	4.352
+Average ratings Erewash:	4.351
+Average ratings East Lindsey:	4.350
+Average ratings Cheshire West and Chester:	4.350
+Average ratings Hyndburn:	4.349
+Average ratings Colchester:	4.349
+Average ratings Coleraine:	4.343
+Average ratings Newark and Sherwood:	4.340
+Average ratings Wokingham:	4.337
+Average ratings Larne:	4.336
+Average ratings Weymouth and Portland:	4.332
+Average ratings Derry:	4.325
+Average ratings North Hertfordshire:	4.322
+Average ratings Chelmsford:	4.320
+Average ratings Charnwood:	4.320
+Average ratings Wychavon:	4.316
+Average ratings Wealden:	4.316
+Average ratings West Dorset:	4.311
+Average ratings Stafford:	4.311
+Average ratings Carlisle City:	4.311
+Average ratings Thanet:	4.310
+Average ratings South Oxfordshire:	4.307
+Average ratings Epping Forest:	4.307
+Average ratings Craigavon:	4.306
+Average ratings Malvern Hills:	4.305
+Average ratings Surrey Heath:	4.304
+Average ratings Gwynedd:	4.298
+Average ratings Denbighshire:	4.294
+Average ratings Winchester City:	4.293
+Average ratings Allerdale:	4.291
+Average ratings East Devon:	4.286
+Average ratings Ards:	4.280
+Average ratings Warwick:	4.277
+Average ratings Crawley:	4.277
+Average ratings Vale of White Horse:	4.274
+Average ratings Braintree:	4.274
+Average ratings Hastings:	4.271
+Average ratings Kettering:	4.269
+Average ratings Banbridge:	4.269
+Average ratings Thurrock:	4.268
+Average ratings Bury:	4.266
+Average ratings North Somerset:	4.263
+Average ratings Wiltshire:	4.260
+Average ratings Staffordshire Moorlands:	4.258
+Average ratings Omagh:	4.257
+Average ratings Brighton and Hove:	4.256
+Average ratings Horsham:	4.255
+Average ratings Harlow:	4.255
+Average ratings Eastleigh:	4.255
+Average ratings Ryedale:	4.250
+Average ratings Peterborough City:	4.246
+Average ratings Shropshire:	4.245
+Average ratings Broxtowe:	4.245
+Average ratings Wrexham:	4.243
+Average ratings North Kesteven:	4.243
+Average ratings Forest Heath:	4.243
+Average ratings Milton Keynes:	4.242
+Average ratings Huntingdonshire:	4.242
+Average ratings Corby:	4.240
+Average ratings Magherafelt:	4.237
+Average ratings North Down:	4.236
+Average ratings London (City of):	4.235
+Average ratings Plymouth City:	4.234
+Average ratings Havant:	4.234
+Average ratings Belfast:	4.228
+Average ratings Armagh:	4.228
+Average ratings East Hertfordshire:	4.226
+Average ratings Dacorum:	4.224
+Average ratings South Hams:	4.223
+Average ratings Basingstoke and Deane:	4.223
+Average ratings Tonbridge and Malling:	4.219
+Average ratings Melton:	4.218
+Average ratings East Hampshire:	4.214
+Average ratings Blaby:	4.214
+Average ratings Chorley:	4.212
+Average ratings Tamworth:	4.210
+Average ratings Uttlesford:	4.206
+Average ratings Northumberland:	4.206
+Average ratings Kirklees:	4.206
+Average ratings Doncaster:	4.206
+Average ratings Wakefield:	4.205
+Average ratings Bracknell Forest:	4.205
+Average ratings Stroud:	4.201
+Average ratings Leeds:	4.198
+Average ratings Mansfield:	4.197
+Average ratings Bournemouth:	4.193
+Average ratings Anglesey:	4.187
+Average ratings Manchester:	4.181
+Average ratings Stevenage:	4.179
+Average ratings Dartford:	4.179
+Average ratings Tewkesbury:	4.178
+Average ratings Solihull:	4.174
+Average ratings Medway:	4.174
+Average ratings Portsmouth:	4.173
+Average ratings Sefton:	4.170
+Average ratings Derby City:	4.168
+Average ratings Copeland:	4.167
+Average ratings Down:	4.165
+Average ratings Guildford:	4.164
+Average ratings South Northamptonshire:	4.162
+Average ratings Oxford City:	4.160
+Average ratings Eastbourne:	4.157
+Average ratings Basildon:	4.154
+Average ratings Newcastle-Under-Lyme:	4.153
+Average ratings Durham:	4.153
+Average ratings Southampton:	4.152
+Average ratings Mid Sussex:	4.152
+Average ratings Fylde:	4.150
+Average ratings Adur:	4.149
+Average ratings Fareham:	4.147
+Average ratings Wyre Forest:	4.144
+Average ratings South Staffordshire:	4.141
+Average ratings Sheffield:	4.135
+Average ratings North Lincolnshire:	4.133
+Average ratings Gedling:	4.133
+Average ratings Chiltern:	4.132
+Average ratings Three Rivers:	4.125
+Average ratings Chesterfield:	4.115
+Average ratings North West Leicestershire:	4.112
+Average ratings Mole Valley:	4.112
+Average ratings Blaenau Gwent:	4.110
+Average ratings Bedford:	4.110
+Average ratings Bradford:	4.106
+Average ratings Spelthorne:	4.103
+Average ratings Wellingborough:	4.101
+Average ratings Torbay:	4.098
+Average ratings Lichfield:	4.097
+Average ratings Rugby:	4.096
+Average ratings Strabane:	4.095
+Average ratings Gateshead:	4.094
+Average ratings Ipswich:	4.092
+Average ratings Newtownabbey:	4.090
+Average ratings Oldham:	4.080
+Average ratings Fermanagh:	4.080
+Average ratings Mid Suffolk:	4.077
+Average ratings Boston:	4.077
+Average ratings Telford and Wrekin Council:	4.075
+Average ratings East Cambridgeshire:	4.073
+Average ratings Arun:	4.072
+Average ratings Conwy:	4.070
+Average ratings Wyre:	4.069
+Average ratings Hinckley and Bosworth:	4.063
+Average ratings Watford:	4.061
+Average ratings Coventry:	4.061
+Average ratings Knowsley:	4.057
+Average ratings Purbeck:	4.050
+Average ratings Derbyshire Dales:	4.050
+Average ratings Gosport:	4.049
+Average ratings King's Lynn and West Norfolk:	4.045
+Average ratings Dover:	4.044
+Average ratings Burnley:	4.044
+Average ratings Halton:	4.037
+Average ratings Canterbury City:	4.035
+Average ratings Cheltenham:	4.033
+Average ratings Rushmoor:	4.029
+Average ratings Birmingham:	4.029
+Average ratings Barnsley:	4.028
+Average ratings West Berkshire:	4.026
+Average ratings Oadby and Wigston:	4.025
+Average ratings Cheshire East:	4.024
+Average ratings Preston:	4.019
+Average ratings Cornwall:	4.019
+Average ratings East Riding of Yorkshire:	4.016
+Average ratings Cotswold:	4.015
+Average ratings Tameside:	4.005
+Average ratings Blackburn:	4.004
+Average ratings Pembrokeshire:	4.000
+Average ratings North Dorset:	4.000
+Average ratings Hammersmith and Fulham:	4.000
+Average ratings Broadland:	4.000
+Average ratings Carmarthenshire:	3.995
+Average ratings South Ribble:	3.991
+Average ratings Calderdale:	3.989
+Average ratings Stoke-On-Trent:	3.983
+Average ratings Epsom and Ewell:	3.982
+Average ratings North Tyneside:	3.981
+Average ratings Flintshire:	3.980
+Average ratings Runnymede:	3.973
+Average ratings Sevenoaks:	3.972
+Average ratings Waveney:	3.958
+Average ratings Dudley:	3.955
+Average ratings South Holland:	3.954
+Average ratings Rotherham:	3.952
+Average ratings Norwich City:	3.949
+Average ratings Kingston-Upon-Thames:	3.949
+Average ratings Swindon:	3.948
+Average ratings Shepway:	3.940
+Average ratings Haringey:	3.936
+Average ratings Selby:	3.932
+Average ratings East Dorset:	3.932
+Average ratings Northampton:	3.931
+Average ratings Ceredigion:	3.928
+Average ratings Wandsworth:	3.917
+Average ratings Test Valley:	3.917
+Average ratings Worthing:	3.912
+Average ratings Trafford:	3.911
+Average ratings Kensington and Chelsea:	3.904
+Average ratings Moyle:	3.902
+Average ratings Camden:	3.897
+Average ratings Liverpool:	3.890
+Average ratings Redditch:	3.884
+Average ratings Wirral:	3.868
+Average ratings Tandridge:	3.864
+Average ratings Reading:	3.855
+Average ratings Forest of Dean:	3.853
+Average ratings Sunderland:	3.850
+Average ratings Cookstown:	3.845
+Average ratings Hounslow:	3.842
+Average ratings Swale:	3.836
+Average ratings Barking and Dagenham:	3.833
+Average ratings Rother:	3.819
+Average ratings Bolton:	3.814
+Average ratings Blackpool:	3.808
+Average ratings Rochdale:	3.806
+Average ratings Nuneaton and Bedworth:	3.806
+Average ratings Hillingdon:	3.804
+Average ratings North Warwickshire:	3.801
+Average ratings Central Bedfordshire:	3.801
+Average ratings Salford:	3.798
+Average ratings South Tyneside:	3.797
+Average ratings North East Derbyshire:	3.797
+Average ratings West Lancashire:	3.796
+Average ratings Lambeth:	3.793
+Average ratings Barnet:	3.784
+Average ratings South Buckinghamshire:	3.782
+Average ratings Southend-On-Sea:	3.779
+Average ratings Wycombe:	3.771
+Average ratings St Helens:	3.766
+Average ratings Neath Port Talbot:	3.747
+Average ratings Torfaen:	3.744
+Average ratings Monmouthshire:	3.726
+Average ratings Richmond-Upon-Thames:	3.725
+Average ratings Havering:	3.723
+Average ratings Tower Hamlets:	3.714
+Average ratings Ballymoney:	3.693
+Average ratings Christchurch:	3.690
+Average ratings Hull City:	3.687
+Average ratings Westminster:	3.673
+Average ratings Croydon:	3.670
+Average ratings Cardiff:	3.648
+Average ratings Waltham Forest:	3.641
+Average ratings Southwark:	3.636
+Average ratings Stockport:	3.635
+Average ratings Hart:	3.635
+Average ratings Swansea:	3.634
+Average ratings Caerphilly:	3.628
+Average ratings Bromley:	3.620
+Average ratings Slough:	3.606
+Average ratings Merton:	3.604
+Average ratings Powys:	3.603
+Average ratings Bridgend:	3.599
+Average ratings Newport:	3.574
+Average ratings Leicester City:	3.562
+Average ratings Luton:	3.554
+Average ratings Enfield:	3.545
+Average ratings Rhondda Cynon Taf:	3.507
+Average ratings St Albans City:	3.499
+Average ratings Islington:	3.495
+Average ratings Vale of Glamorgan:	3.479
+Average ratings Wigan:	3.472
+Average ratings Sandwell:	3.451
+Average ratings Harrow:	3.451
+Average ratings Merthyr Tydfil:	3.440
+Average ratings Hertsmere:	3.418
+Average ratings Lewisham:	3.342
+Average ratings Walsall:	3.338
+Average ratings Ealing:	3.277
+Average ratings Hackney:	3.129
+Average ratings Bexley:	3.092
+Average ratings Sutton:	3.074
