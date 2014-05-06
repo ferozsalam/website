@@ -2,14 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<link rel="stylesheet" type="text/css" href="style.css"/>
-<script type="text/javascript" src="jquery.js"></script> 
-<script type="text/javascript" src="header.js"></script> 
+<link rel="stylesheet" type="text/css" href="../style.css"/>
 <title>Average FSA Food Ratings</title>
 </head>
 <body>
 <div id="header"></div> 
-<script type="text/javascript">loadContent()</script> 
+<?php require('../header.php');?>
 <div class="content">
   <h2>Average FSA food ratings for the UK (March 2013)</h2>
   Just before the Bank Holiday weekend I discovered that the Food Standards Agency has 

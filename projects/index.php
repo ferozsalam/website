@@ -2,18 +2,18 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-  <link rel="stylesheet" type="text/css" href="style.css"/>
+  <link rel="stylesheet" type="text/css" href="../style.css"/>
   <script type="text/javascript" src="jquery.js"></script> 
   <script type="text/javascript" src="header.js"></script> 
   <title>Projects</title>
 </head>
 <body>
-  <div id="header"><script type="text/javascript">loadContent()</script></div>
+  <?php require('../header.php');?>
   <div class="content">
     <h3>FSA food ratings [March 2013]</h3>
     <p>
     I've averaged out the Food Safety Ratings for virtually all the councils in Britain
-    and posted them <a href="http://www.ferozsalam.com/food_ratings.html">here</a>. It was
+    and posted them <a href="./food_ratings.php">here</a>. It was
     only a quick Sunday evening thing, so I haven't done much with the data, but it might
     be of casual interest to someone.
     </p>

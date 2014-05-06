@@ -5,7 +5,7 @@
 
 body {
 	background-color: #FFFEFA;
-	font-family: Open Sans, Calibri,"Gill Sans MT", sans-serif;
+	font-family: Open Sans, sans-serif;
 	font-size:115%;
 	width: 800px;
 	margin-left:auto;
@@ -39,24 +39,19 @@ a:hover {
 }
 
 .heading {
-	font-size:60px;
+	font-size:48px;
 	text-align:left;
 	float: left;
-	padding-bottom: 5px;
-}
-
-.nav a {
-	color: #000;
 }
 
 .menu {
 	float: right;
-	font-size: 25px;
-	padding-top: 30px;
+  padding-top: 20px;
+	font-size: 24px;
 }
 
 .menu td {
-    padding-left: 15px;
+  padding-left: 15px;
 }
 
 /* Glyph, by Harry Roberts */
@@ -70,7 +65,12 @@ hr.style-eight {
 }
 
 .nav {
-	font-family: Georgia, serif;
+  overflow: auto;
+	font-family: 'Libre Baskerville', Georgia, serif;
+}
+
+.nav a {
+	color: #000;
 }
 
 .nav hr {
@@ -78,6 +78,5 @@ hr.style-eight {
 }
 
 .content{
-  padding-top: 20px;
 	clear:both;
 }
