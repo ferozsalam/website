@@ -10,26 +10,37 @@
 <body>
   <?php require('../header.php');?>
   <div class="content">
+    <h3>The Daily Aww</h3>
+      <p>
+        One photo from the top of <a href='http://www.reddit.com/r/aww'>r/aww</a> every
+        morning. Check it out <a href='http://www.thedailyaww.co.uk'>here</a>.
+      </p>
+    <h3>Ten years of Gmail</h3>
+      <p>
+      In early May 2014 I downloaded all of my email from Gmail. I've begun parsing through 
+      it over the last few weeks, and I'm posting anything I find interesting from the data
+      <a href="ten_years_of_gmail/">here</a>. Let me know what you think and if you'd like to
+      see anything else from the data!
+      </p>
     <h3>FSA food ratings [March 2013]</h3>
-    <p>
-    I've averaged out the Food Safety Ratings for virtually all the councils in Britain
-    and posted them <a href="./food_ratings.php">here</a>. It was
-    only a quick Sunday evening thing, so I haven't done much with the data, but it might
-    be of casual interest to someone.
-    </p>
+      <p>
+      I've averaged out the Food Safety Ratings for virtually all the councils in Britain
+      and posted them <a href="./food_ratings.php">here</a>. It was
+      only a quick Sunday evening thing, so I haven't done much with the data, but it might
+      be of casual interest to someone.
+      </p>
     <h3>Nope-inator</h3>
-    <p>
-    Tired of journalists lazily titling incredibly speculative articles with question 
-    marks? <a href="https://t.co/yjS6xnX8OV">The Nope-inator tells it how it really is</a>. 
-    Available only as a Chrome extension for now. Credit for the idea goes to 
-    <a href="https://twitter.com/arcadia_eg0">@arcadia_eg0</a>.
-    </p>
+      <p>
+      Tired of journalists lazily titling incredibly speculative articles with question 
+      marks? <a href="https://t.co/yjS6xnX8OV">The Nope-inator tells it how it really is</a>. 
+      Available only as a Chrome extension for now. Credit for the idea goes to 
+      <a href="https://twitter.com/arcadia_eg0">@arcadia_eg0</a>.
+      </p>
     <h3>Brother Francis</h3>
-    <p>
-    Brother Francis, my Brother receipt printer, will print anything sent to it via
-    <a href="http://francis.argh.in">its website</a>. 
-    </p>
-    </p>
+      <p>
+      Brother Francis, my Brother receipt printer, will print anything sent to it via
+      <a href="http://francis.argh.in">its website</a>. 
+      </p>
   </div>
 </body>
 </html>
