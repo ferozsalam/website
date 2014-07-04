@@ -65,6 +65,7 @@ hr.style-eight {
 }
 
 .nav {
+  margin-top: 30px;
   overflow: auto;
 	font-family: 'Libre Baskerville', Georgia, serif;
 }
