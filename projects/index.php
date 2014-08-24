@@ -36,7 +36,7 @@
       Available only as a Chrome extension for now. Credit for the idea goes to 
       <a href="https://twitter.com/arcadia_eg0">@arcadia_eg0</a>.
       </p>
-    <h3>Brother Francis [Unplugged June 2014, new project coming soon!]</h3>
+    <h3>Brother Francis</h3>
       <p>
       Brother Francis, my Brother receipt printer, will print anything sent to it via
       <a href="http://francis.argh.in">its website</a>. 
