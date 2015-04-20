@@ -6,8 +6,8 @@
 body {
 	background-color: #FFFEFA;
 	font-family: Open Sans, sans-serif;
-	font-size:115%;
-	width: 800px;
+	font-size:16px;
+	max-width: 800px;
 	margin-left:auto;
 	margin-right:auto;
 }
@@ -57,11 +57,11 @@ a:hover {
 /* Glyph, by Harry Roberts */
 		
 hr.style-eight {
-    padding: 0;
-    border: none;
-    border-top: medium double #333;
-    color: #333;
-    text-align: center;
+  padding: 0;
+  border: none;
+  border-top: medium double #333;
+  color: #333;
+  text-align: center;
 }
 
 .nav {

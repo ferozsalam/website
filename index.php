@@ -2,6 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" type="text/css" href="style.css"/>
   <title>Feroz Salam</title>
 </head>
@@ -11,9 +12,9 @@
   <div class="content">
     <p>
     I work on internet security (specifically anti-phishing services) 
-    at <a href="http://www.netcraft.com">Netcraft</a> and study 
+    at <a href="http://www.netcraft.com">Netcraft</a><!-- and study 
     <a href="http://www.ed.ac.uk/schools-departments/history-classics-archaeology/graduate-school/programmes/history/taught-msc-history-online">History at 
-    the University of Edinburgh</a>. If I'm not working or studying, I'm probably 
+    the University of Edinburgh</a>--!>. If I'm not working or studying, I'm probably 
     messing with one of my 
     <a href="http://www.ferozsalam.com/projects/">projects</a>, 
     or trying to hit my Goodreads target for the year. 
