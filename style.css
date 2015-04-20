@@ -82,3 +82,8 @@ hr.style-eight {
 .content{
 	clear:both;
 }
+
+.body-wrapper {
+  margin-left: 10px;
+  margin-right: 10px;
+}
