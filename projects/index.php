@@ -9,32 +9,34 @@
   <title>Projects</title>
 </head>
 <body>
-  <?php require('../header.php');?>
-  <div class="content">
-    <h3>The Daily Aww</h3>
-      <p>
-        One photo from the top of <a href='http://www.reddit.com/r/aww'>r/aww</a> every
-        morning. Check it out <a href='http://www.thedailyaww.co.uk'>here</a>.
-      </p>
-    <h3>FSA food ratings [March 2013]</h3>
-      <p>
-      I've averaged out the Food Safety Ratings for virtually all the councils in Britain
-      and posted them <a href="./food_ratings.php">here</a>. It was
-      only a quick Sunday evening thing, so I haven't done much with the data, but it might
-      be of casual interest to someone.
-      </p>
-    <h3>Nope-inator</h3>
-      <p>
-      Tired of journalists lazily titling incredibly speculative articles with question 
-      marks? <a href="https://t.co/yjS6xnX8OV">The Nope-inator tells it how it really is</a>. 
-      Available only as a Chrome extension for now. Credit for the idea goes to 
-      <a href="https://twitter.com/arcadia_eg0">@arcadia_eg0</a>.
-      </p>
-    <h3>Brother Francis</h3>
-      <p>
-      Brother Francis, my Brother receipt printer, will print anything sent to it via
-      <a href="http://francis.argh.in">its website</a>. 
-      </p>
+  <div class="body-wrapper">
+    <?php require('../header.php');?>
+    <div class="content">
+      <h3>The Daily Aww</h3>
+        <p>
+          One photo from the top of <a href='http://www.reddit.com/r/aww'>r/aww</a> every
+          morning. Check it out <a href='http://www.thedailyaww.co.uk'>here</a>.
+        </p>
+      <h3>FSA food ratings [March 2013]</h3>
+        <p>
+        I've averaged out the Food Safety Ratings for virtually all the councils in Britain
+        and posted them <a href="./food_ratings.php">here</a>. It was
+        only a quick Sunday evening thing, so I haven't done much with the data, but it might
+        be of casual interest to someone.
+        </p>
+      <h3>Nope-inator</h3>
+        <p>
+        Tired of journalists lazily titling incredibly speculative articles with question 
+        marks? <a href="https://t.co/yjS6xnX8OV">The Nope-inator tells it how it really is</a>. 
+        Available only as a Chrome extension for now. Credit for the idea goes to 
+        <a href="https://twitter.com/arcadia_eg0">@arcadia_eg0</a>.
+        </p>
+      <h3>Brother Francis</h3>
+        <p>
+        Brother Francis, my Brother receipt printer, will print anything sent to it via
+        <a href="http://francis.argh.in">its website</a>. 
+        </p>
+    </div>
   </div>
 </body>
 </html>
